@@ -1,1 +1,1 @@
-I built a simple IoT-based Home Automation System using an ESP32 and a web page hosted on SmarterASP.NET. It lets users control 3 room lights and a fan via Wi-Fi using HTML/CSS buttons. This project gave me hands-on experience in IoT, web development, and smart home design.
+I built a simple IoT-based Home Automation System using an ESP32 and a web page hosted on SmarterASP.NET. It lets users control 3 room lights and a fan via Wi-Fi using HTML  buttons. This project gave me hands-on experience in IoT, web development, and smart home design.

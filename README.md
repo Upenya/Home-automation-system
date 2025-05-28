@@ -1,2 +1,1 @@
-# Home-automation-system
- Built a smart Home Automation System using ESP32 &amp; a hosted web interface to control lights and a fan via Wi-Fi. Integrated HTML frontend on SmarterASP.NET. Gained skills in IoT, embedded systems, and web development. #IoT #ESP32 #SmartHome #WebDevelopment #TechProject
+I built a simple IoT-based Home Automation System using an ESP32 and a web page hosted on SmarterASP.NET. It lets users control 3 room lights and a fan via Wi-Fi using HTML/CSS buttons. This project gave me hands-on experience in IoT, web development, and smart home design.
